@@ -1,0 +1,4 @@
+,amount,bathrooms,bedrooms,city,finishedSqFt,high,house_number,last-updated,lastSoldDate,lastSoldPrice,latitude,longitude,lotSizeSqFt,low,postcode,road,state,taxAssessment,taxAssessmentYear,useCode,yearBuilt
+0,70706,1.5,3,PGH,1254,92625,7301,10/08/2019,07/14/2009,33000,40.456193,-79.894247,6075,48787,15208,Bennett Street,Pennsylvania,47000.0,2019,SingleFamily,1982
+1,,2.5,3,PGH,1044,,7234,01/01/1970,NA,NA,40.453638,-79.896481,2313,,15208,Tioga Street,Pennsylvania,17500.0,2019,SingleFamily,2017
+2,,1.0,3,Wilkinsburg,1352,,7605,01/01/1970,01/11/2012,3066,40.452608,-79.892914,1187,,15208,Tioga Street,Pennsylvania,2500.0,2019,SingleFamily,1890

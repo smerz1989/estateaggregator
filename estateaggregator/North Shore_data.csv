@@ -1,0 +1,5 @@
+,amount,bathrooms,bedrooms,city,finishedSqFt,high,house_number,last-updated,lastSoldDate,lastSoldPrice,latitude,longitude,lotSizeSqFt,low,postcode,road,state,taxAssessment,taxAssessmentYear,useCode,yearBuilt
+0,,1.0,1,PGH,609,,179,01/01/1970,NA,NA,40.448622,-79.999355,NA,,15212,Anderson Street,Pennsylvania,NA,NA,Apartment,NA
+1,184568,1.0,3,PGH,2131,225173,853,10/06/2019,08/28/2012,6500,40.45281,-79.994193,2369,153191,15212,South Canal Street,Pennsylvania,80000.0,2019,SingleFamily,1872
+2,,3.0,3,PGH,3468,,878,01/01/1970,06/30/1998,35000,40.452564,-79.993152,3202,,15212,Progress Street,Pennsylvania,97500.0,2019,Triplex,1900
+3,116539,1.0,3,PGH,1442,135185,698,10/06/2019,NA,NA,40.483834,-80.025783,21780,89735,15233,Allegheny Avenue,Pennsylvania,74200.0,2019,SingleFamily,1930

@@ -1,0 +1,8 @@
+,amount,bathrooms,bedrooms,city,finishedSqFt,high,house_number,last-updated,lastSoldDate,lastSoldPrice,latitude,longitude,lotSizeSqFt,low,postcode,road,state,taxAssessment,taxAssessmentYear,useCode,yearBuilt
+0,151961,1.0,2,PGH,1874,180834,105,10/07/2019,NA,NA,40.427347,-79.987341,1600,120049,15222,11th Street,Pennsylvania,60000.0,2019,SingleFamily,1900
+1,,1.0,1,PGH,775,,1100,01/01/1970,NA,NA,40.444211,-79.992468,NA,,15222,Liberty Avenue,Pennsylvania,NA,NA,Apartment,NA
+2,255982,3.0,3,PGH,2238,281580,3252,10/07/2019,07/23/2010,220000,40.436938,-79.8341,20113,230384,15201,Penn Avenue,Pennsylvania,204700.0,2019,SingleFamily,1959
+3,329189,NA,0,PGH,NA,467448,2,10/07/2019,08/09/2018,5872735,40.428452,-79.967285,15862,250184,15222,26th Street,Pennsylvania,4229600.0,2019,Condominium,NA
+4,55446,1.0,2,PGH,884,83723,3155,10/07/2019,05/11/1992,5200,40.460264,-79.970101,533,38812,15201,Spring Way,Pennsylvania,28000.0,2019,Townhouse,1900
+5,560834,3.0,2,PGH,NA,667392,2555,10/07/2019,NA,NA,40.4461,-79.9949,NA,459884,15201,Smallman Street,Pennsylvania,NA,NA,Condominium,NA
+6,405854,3.0,3,PGH,1364,454556,3164,10/07/2019,04/17/2017,365000,40.466322,-79.966511,1600,361210,15222,Smallman Street,Pennsylvania,266900.0,2019,SingleFamily,1915

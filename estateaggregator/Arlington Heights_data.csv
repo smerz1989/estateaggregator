@@ -1,0 +1,4 @@
+,amount,bathrooms,bedrooms,city,finishedSqFt,high,house_number,last-updated,lastSoldDate,lastSoldPrice,latitude,longitude,lotSizeSqFt,low,postcode,road,state,taxAssessment,taxAssessmentYear,useCode,yearBuilt
+0,70613,2.0,3,PGH,2420,93209,3027,10/04/2019,NA,NA,40.415766,-79.964773,9100,46605,15210,Zaruba Street,Pennsylvania,46800.0,2019,Duplex,1925
+1,,1.0,3,PGH,1620,,2998,01/01/1970,NA,NA,40.414628,-79.967162,4840,,15210,Devlin Street,Pennsylvania,30300.0,2019,SingleFamily,1890
+2,,1.0,1,PGH,NA,,3000,01/01/1970,NA,NA,40.417747,-79.978182,NA,,15210,Arlington Avenue,Pennsylvania,NA,NA,Apartment,NA

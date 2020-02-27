@@ -1,0 +1,5 @@
+,amount,bathrooms,bedrooms,city,finishedSqFt,high,house_number,last-updated,lastSoldDate,lastSoldPrice,latitude,longitude,lotSizeSqFt,low,postcode,road,state,taxAssessment,taxAssessmentYear,useCode,yearBuilt
+0,65968,1.0,1,PGH,544,89716,1613,10/07/2019,03/15/1982,5334,40.437224,-79.983565,476,44199,15219,Tustin Street,Pennsylvania,14200.0,2019,SingleFamily,1910
+1,,NA,NA,PGH,NA,,1515,01/01/1970,NA,NA,40.437777,-79.984559,862,,15219,Forbes Avenue,Pennsylvania,NA,NA,VacantResidentialLand,NA
+2,,1.0,3,PGH,1939,,2024,01/01/1970,NA,NA,40.437124,-79.976743,1331,,15219,Forbes Avenue,Pennsylvania,24800.0,2019,SingleFamily,1910
+3,,1.0,3,PGH,1164,,71,01/01/1970,NA,NA,40.462502,-79.873114,6845,,15219,Pride Street,Pennsylvania,48700.0,2019,SingleFamily,1932
